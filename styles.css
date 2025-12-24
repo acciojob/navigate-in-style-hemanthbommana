@@ -4,7 +4,10 @@
 	padding:10px;
 }
 ul{
-	display:inline;
+	
 	margin-right:1rem;
 	list-style:none;
+}
+li{
+	display:inline;
 }
