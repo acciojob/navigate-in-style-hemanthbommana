@@ -3,7 +3,8 @@
 	background-color:#D3D3D3;
 	padding:10px;
 }
-li{
+ul{
 	display:inline;
 	margin-right:1rem;
+	list-style:none;
 }
